@@ -77,6 +77,6 @@ The dataset includes:
 
 ## 📬 Contact
 
-For questions or collaboration: [Your Email]  
-Project by [Your Name]
+For questions or collaboration: [mahmoudaboelnaga46@gmail.com]  
+Project by [Mahmoud Abo Elnaga]
 
